@@ -1,0 +1,18 @@
+# Compilación y artefactos de Java/Maven
+target/
+*.class
+*.jar
+*.war
+
+# Archivos de configuración de Eclipse
+.settings/
+.classpath
+.project
+.factorypath
+
+# Archivos de la base de datos H2 (si se generan en disco)
+*.db
+
+# Archivos de registro y temporales
+*.log
+.DS_Store
